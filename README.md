@@ -15,3 +15,4 @@
 
 > Necessário Node 14.8.1
 <p>Projeto em React Native, com aplicação de Hocks, Mocks, navegação entre telas stack e tab.</p>
+<img width="200" height="400" src="src/assets/gif do projeto.gif">
